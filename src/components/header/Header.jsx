@@ -8,17 +8,16 @@ const Header = () => {
     <header>
       <div className="header__container">
         <h5>Hello I'm</h5>
-        <h1>Bimalesh Kumar Yadav</h1>  
-        <h5 className='text-light'>Software Developer</h5>
+        <h1>Bimalesh Kumar Yadav</h1>
+        <h5 className="text-light">Full Stack Developer</h5>
         <CTA />
         <HeaderSocials />
         <div className="me">
-          <img src={me} alt="Bimalesh Kumar Yadav" />  
+          <img src={me} alt="Bimalesh Kumar Yadav" />
         </div>
       </div>
-        
     </header>
-  )
+  );
 }
 
 export default Header

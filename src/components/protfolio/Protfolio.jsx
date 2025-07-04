@@ -17,7 +17,7 @@ const Protfolio = () => {
           <div className="protfolio__item-image">
             <img src={image1} alt="image1" />
             </div>
-            <h3>RESto</h3>  
+            <h3>Resto</h3>  
             <div className='protfolio__item-cta'>
               <a href='https://github.com/bimalesh07/Responsive-websites-Resto' className='btn' target='_blank'>Github</a>
               <a href='https://i.imgur.com/CAwMdJB.png' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -27,7 +27,7 @@ const Protfolio = () => {
           <div className="protfolio__item-image">
             <img src={image2} alt="image1" />
             </div>
-            <h3>gguuhu</h3>  
+            <h3>Instagaram Clone </h3>  
             <div className='protfolio__item-cta'>
               <a href='https://github.com/abhay39/instagramCLone' className='btn' target='_blank'>Github</a>
               <a href='https://i.imgur.com/FNmqm89.png' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -37,7 +37,7 @@ const Protfolio = () => {
           <div className="protfolio__item-image">
             <img src={image3} alt="image1" />
             </div>
-            <h3>Water Billings</h3>  
+            <h3>Tinder</h3>  
             <div className='protfolio__item-cta'>
               <a href='https://github.com/bimalesh07/Responsive-websites-Resto' className='btn' target='_blank'>Github</a>
               <a href='https://imgur.com/a/doTcU7i' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -57,7 +57,7 @@ const Protfolio = () => {
           <div className="protfolio__item-image">
             <img src={image5} alt="image1" />
             </div>
-            <h3>Travel</h3>  
+            <h3>Travel Agency </h3>  
             <div className='protfolio__item-cta'>
               <a href='https://github.com/abhay39/Income-Expanse-Manager' className='btn' target='_blank'>Github</a>
               <a href='https://imgur.com/6OzzVwy' className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -67,7 +67,7 @@ const Protfolio = () => {
           <div className="protfolio__item-image">
             <img src={image6} alt="image1" />
             </div>
-            <h3>Grco</h3>  
+            <h3>Geroceary</h3>  
             <div className='protfolio__item-cta'>
               <a href='https://github.com/abhay39/KBC' className='btn' target='_blank'>Github</a>
               <a href='https://bimalesh07.imgur.com/all' className='btn btn-primary' target='_blank'>Live Demo</a>
